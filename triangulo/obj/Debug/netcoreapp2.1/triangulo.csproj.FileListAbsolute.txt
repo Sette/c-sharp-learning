@@ -1,0 +1,11 @@
+/home/sette/C-sharp-projects/triangulo/bin/Debug/netcoreapp2.1/triangulo.deps.json
+/home/sette/C-sharp-projects/triangulo/bin/Debug/netcoreapp2.1/triangulo.runtimeconfig.json
+/home/sette/C-sharp-projects/triangulo/bin/Debug/netcoreapp2.1/triangulo.runtimeconfig.dev.json
+/home/sette/C-sharp-projects/triangulo/bin/Debug/netcoreapp2.1/triangulo.dll
+/home/sette/C-sharp-projects/triangulo/bin/Debug/netcoreapp2.1/triangulo.pdb
+/home/sette/C-sharp-projects/triangulo/obj/Debug/netcoreapp2.1/triangulo.csprojAssemblyReference.cache
+/home/sette/C-sharp-projects/triangulo/obj/Debug/netcoreapp2.1/triangulo.csproj.CoreCompileInputs.cache
+/home/sette/C-sharp-projects/triangulo/obj/Debug/netcoreapp2.1/triangulo.AssemblyInfoInputs.cache
+/home/sette/C-sharp-projects/triangulo/obj/Debug/netcoreapp2.1/triangulo.AssemblyInfo.cs
+/home/sette/C-sharp-projects/triangulo/obj/Debug/netcoreapp2.1/triangulo.dll
+/home/sette/C-sharp-projects/triangulo/obj/Debug/netcoreapp2.1/triangulo.pdb

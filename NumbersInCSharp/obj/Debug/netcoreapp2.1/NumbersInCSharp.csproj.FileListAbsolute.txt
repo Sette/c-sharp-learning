@@ -1,0 +1,11 @@
+/home/sette/C-sharp-projects/NumbersInCSharp/bin/Debug/netcoreapp2.1/NumbersInCSharp.deps.json
+/home/sette/C-sharp-projects/NumbersInCSharp/bin/Debug/netcoreapp2.1/NumbersInCSharp.runtimeconfig.json
+/home/sette/C-sharp-projects/NumbersInCSharp/bin/Debug/netcoreapp2.1/NumbersInCSharp.runtimeconfig.dev.json
+/home/sette/C-sharp-projects/NumbersInCSharp/bin/Debug/netcoreapp2.1/NumbersInCSharp.dll
+/home/sette/C-sharp-projects/NumbersInCSharp/bin/Debug/netcoreapp2.1/NumbersInCSharp.pdb
+/home/sette/C-sharp-projects/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.csprojAssemblyReference.cache
+/home/sette/C-sharp-projects/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/home/sette/C-sharp-projects/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.AssemblyInfoInputs.cache
+/home/sette/C-sharp-projects/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.AssemblyInfo.cs
+/home/sette/C-sharp-projects/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.dll
+/home/sette/C-sharp-projects/NumbersInCSharp/obj/Debug/netcoreapp2.1/NumbersInCSharp.pdb

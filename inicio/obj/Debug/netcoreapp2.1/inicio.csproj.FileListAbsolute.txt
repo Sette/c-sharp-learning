@@ -1,0 +1,11 @@
+/home/sette/C-sharp-projects/inicio/bin/Debug/netcoreapp2.1/inicio.deps.json
+/home/sette/C-sharp-projects/inicio/bin/Debug/netcoreapp2.1/inicio.runtimeconfig.json
+/home/sette/C-sharp-projects/inicio/bin/Debug/netcoreapp2.1/inicio.runtimeconfig.dev.json
+/home/sette/C-sharp-projects/inicio/bin/Debug/netcoreapp2.1/inicio.dll
+/home/sette/C-sharp-projects/inicio/bin/Debug/netcoreapp2.1/inicio.pdb
+/home/sette/C-sharp-projects/inicio/obj/Debug/netcoreapp2.1/inicio.csprojAssemblyReference.cache
+/home/sette/C-sharp-projects/inicio/obj/Debug/netcoreapp2.1/inicio.csproj.CoreCompileInputs.cache
+/home/sette/C-sharp-projects/inicio/obj/Debug/netcoreapp2.1/inicio.AssemblyInfoInputs.cache
+/home/sette/C-sharp-projects/inicio/obj/Debug/netcoreapp2.1/inicio.AssemblyInfo.cs
+/home/sette/C-sharp-projects/inicio/obj/Debug/netcoreapp2.1/inicio.dll
+/home/sette/C-sharp-projects/inicio/obj/Debug/netcoreapp2.1/inicio.pdb

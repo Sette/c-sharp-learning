@@ -1,0 +1,11 @@
+/home/sette/C-sharp-projects/BranchesAndLoops/bin/Debug/netcoreapp2.1/BranchesAndLoops.deps.json
+/home/sette/C-sharp-projects/BranchesAndLoops/bin/Debug/netcoreapp2.1/BranchesAndLoops.runtimeconfig.json
+/home/sette/C-sharp-projects/BranchesAndLoops/bin/Debug/netcoreapp2.1/BranchesAndLoops.runtimeconfig.dev.json
+/home/sette/C-sharp-projects/BranchesAndLoops/bin/Debug/netcoreapp2.1/BranchesAndLoops.dll
+/home/sette/C-sharp-projects/BranchesAndLoops/bin/Debug/netcoreapp2.1/BranchesAndLoops.pdb
+/home/sette/C-sharp-projects/BranchesAndLoops/obj/Debug/netcoreapp2.1/BranchesAndLoops.csprojAssemblyReference.cache
+/home/sette/C-sharp-projects/BranchesAndLoops/obj/Debug/netcoreapp2.1/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/home/sette/C-sharp-projects/BranchesAndLoops/obj/Debug/netcoreapp2.1/BranchesAndLoops.AssemblyInfoInputs.cache
+/home/sette/C-sharp-projects/BranchesAndLoops/obj/Debug/netcoreapp2.1/BranchesAndLoops.AssemblyInfo.cs
+/home/sette/C-sharp-projects/BranchesAndLoops/obj/Debug/netcoreapp2.1/BranchesAndLoops.dll
+/home/sette/C-sharp-projects/BranchesAndLoops/obj/Debug/netcoreapp2.1/BranchesAndLoops.pdb
